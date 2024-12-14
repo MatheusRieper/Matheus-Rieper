@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Matheus Souza tenho 28 anos e sou de Joinville Santa Catarina.
+Meu nome é Matheus Rieper tenho 28 anos e sou de Joinville Santa Catarina.
 Sou um programador dedicado e apaixonado por aprender novas tecnologias. Tenho experiência com linguagens como PHP, C#, JavaScript e SQL, 
 e estou em constante busca por aprimoramento técnico. Valorizo muito o trabalho em equipe e a boa comunicação, além de sempre manter uma 
 postura positiva e proativa diante dos desafios.
