@@ -50,7 +50,7 @@ Estou cursando Analise e Desenvolvimento de Sistemas.
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C#/C#-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
   />
 <img 
     align="left" 
