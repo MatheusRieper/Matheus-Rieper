@@ -81,6 +81,6 @@ Estou cursando Analise e Desenvolvimento de Sistemas.
     alt="Node.js" 
     title="Node.js"
     width="30px" 
-    style="padding-right: 8px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
